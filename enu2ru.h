@@ -12,7 +12,7 @@ public:
      https://en.openrussian.org/vocab/C1
      https://en.openrussian.org/vocab/C2
      */
-    QString openrussian[5309][3] = {
+    QString openrussian[5229][3] = {
 
     };
 
