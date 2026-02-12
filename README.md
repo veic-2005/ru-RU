@@ -1,5 +1,5 @@
 # Two-dimensional array"
-先[导入word](import_open_ru.md)操作，然后再执行下列操作。
+先[导入word](docs/import_open_ru.md)操作，然后再执行下列操作。
 
 - [fx 4.5+](https://learn.microsoft.com/en-us/dotnet/framework/install/versions-and-dependencies?source=recommendations#remarks-for-version-45-and-later)
 
